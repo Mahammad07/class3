@@ -1,0 +1,14 @@
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\bin\Debug\netcoreapp3.1\ters1.exe
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\bin\Debug\netcoreapp3.1\ters1.deps.json
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\bin\Debug\netcoreapp3.1\ters1.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\bin\Debug\netcoreapp3.1\ters1.runtimeconfig.dev.json
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\bin\Debug\netcoreapp3.1\ters1.dll
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\bin\Debug\netcoreapp3.1\ters1.pdb
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.dll
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.pdb
+C:\Users\mehem\OneDrive\Desktop\homework123\ters1\ters1\obj\Debug\netcoreapp3.1\ters1.genruntimeconfig.cache
